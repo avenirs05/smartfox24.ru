@@ -42,27 +42,27 @@
 	<div class="row portfolio-row">
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://uberline.in.ua/" target="_blank">
-			  	<img id="img-fluid-1" src="imgs/portfolio-uber.jpg" class="img-fluid rounded" alt="">
+			  <a href="http://martyanov365.ru/" target="_blank">
+			  	<img id="img-fluid-1" src="imgs/portfolio-mart.jpg" class="img-fluid rounded" alt="">
 			  	<div id="img-overlay-1" class="img-overlay">
 			  		<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
 			    </div>
 			  </a>
-			  <figcaption class="figure-caption">
-			  	<b>Партнер UBER-такси </b>
+			  <figcaption class="figure-caption">			  	
+			  	<b>Оптовый продавец натуральных масел </b>
 			  </figcaption>
 			</figure>
 		</div>
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://martyanov365.ru/" target="_blank">
-			  	<img id="img-fluid-2" src="imgs/portfolio-mart.jpg" class="img-fluid rounded" alt="">
+			  <a href="http://potolok-narod.ru/" target="_blank">
+			  	<img id="img-fluid-2" src="imgs/portfolio-potolok.jpg" class="img-fluid rounded" alt="">
 		  		<div id="img-overlay-2" class="img-overlay">
 		  			<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
 		  	  </div>
 			  </a>
 			  <figcaption class="figure-caption">
-			  	<b>Оптовый продавец натуральных масел </b>
+			  	<b>Изготовление натяжных потолков </b>
 			  </figcaption>
 			</figure>
 		</div>

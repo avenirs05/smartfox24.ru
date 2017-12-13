@@ -49,7 +49,7 @@
             </ul>
             <div class="col-auto d-flex align-items-center justify-content-end contacts">        
               <img class="phone-icon" src="imgs/phone.svg" width="17" height="17" alt="">
-              <div class="phone-digits">+380 99 290 00 50</div>
+              <div class="phone-digits">+7 (989) 622 08 19</div>
               <img class="whatsapp-icon" src="imgs/whatsapp.svg" width="18" height="18" alt="">
               <img class="viber-icon" src="imgs/viber.png" width="16" height="18" alt="">
               <img src="imgs/telegram.png" width="18" height="18" alt="">           
@@ -78,8 +78,8 @@
         </div>   
         <div class="row text-center">
           <div class="col col-lg-12 ml-auto mr-auto">
-            <button id="btn-get-consult-desk" type="submit" class="btn btn-primary ml-auto mr-auto d-none d-lg-block">Заказать выезд специалиста</button>
-            <button id="btn-get-consult-mob" type="submit" class="btn btn-primary ml-auto mr-auto d-lg-none">Заказать выезд специалиста</button>
+            <button id="btn-get-consult-desk" type="submit" class="btn btn-primary ml-auto mr-auto d-none d-lg-block">Задать вопрос</button>
+            <button id="btn-get-consult-mob" type="submit" class="btn btn-primary ml-auto mr-auto d-lg-none">Задать вопрос</button>
           </div>  
         </div>     
       </div>  
