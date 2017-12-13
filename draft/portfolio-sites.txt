@@ -1,0 +1,51 @@
+dvalpinist.port - нет моб
+dsloboda.port - нет моб
+forpeople.port - нет моб
+fountainspro.port - нет моб
+k31-eco.port - моб меню при <480 криво (полоса прокрутки)
+pts.kpknb.port
+
+martyanov.port
+andrey-yakubowskiy.port
+askatrade.port
+bes-cargo.port
+inhelp.port
+italy.port
+atlant.port
+sunwavestudio.port
+
+aska.pretenzor.ru
+atlant.pretenzor.ru
+bes.pretenzor.ru
+inhelp.pretenzor.ru
+italy.pretenzor.ru
+mart.pretenzor.ru
+sun.pretenzor.ru
+yakub.pretenzor.ru
+
+
+smartfox24.ru
+smartfox.su
+
+
+martyanov365.ru
+yakub-center.ru
+aska-trade.ru
+bescompany.ru
+paramita-clinic.ru
+italylegend.ru
+atlantpogreb.ru
+sunwave-studio.ru
+
+
+
+opt.martyanov365.ru
+client.yakub-center.ru
+rus.aska-trade.ru
+cargo.bescompany.ru
+help.paramita-clinic.ru
+msk.italylegend.ru
+your.atlantpogreb.ru
+user.sunwave-studio.ru
+
+
