@@ -42,7 +42,7 @@
 	<div class="row portfolio-row">
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://martyanov365.ru/" target="_blank">
+			  <a href="http://opt.martyanov365.ru/" target="_blank">
 			  	<img id="img-fluid-1" src="imgs/portfolio-mart.jpg" class="img-fluid rounded" alt="">
 			  	<div id="img-overlay-1" class="img-overlay">
 			  		<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
@@ -68,7 +68,7 @@
 		</div>
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://yakub-center.ru/" target="_blank">
+			  <a href="http://client.yakub-center.ru/" target="_blank">
 			  	<img id="img-fluid-3" src="imgs/portfolio-yakub.jpg" class="img-fluid rounded" alt="">
 		  		<div id="img-overlay-3" class="img-overlay">
 		  			<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
@@ -83,7 +83,7 @@
 	<div class="row portfolio-row">
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://aska-trade.ru/" target="_blank">
+			  <a href="http://rus.aska-trade.ru/" target="_blank">
 			  	<img id="img-fluid-4" src="imgs/portfolio-aska.jpg" class="img-fluid rounded" alt="">
 		  		<div id="img-overlay-4" class="img-overlay">
 		  			<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
@@ -96,7 +96,7 @@
 		</div>
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://bescompany.ru/" target="_blank">
+			  <a href="http://cargo.bescompany.ru/" target="_blank">
 			  	<img id="img-fluid-5" src="imgs/portfolio-bes.jpg" class="img-fluid rounded" alt="">
 		  		<div id="img-overlay-5" class="img-overlay">
 		  			<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
@@ -109,7 +109,7 @@
 		</div>
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://paramita-clinic.ru/" target="_blank">
+			  <a href="http://help.paramita-clinic.ru/" target="_blank">
 			  	<img id="img-fluid-6" src="imgs/portfolio-para.jpg" class="img-fluid rounded" alt="">
 		  		<div id="img-overlay-6" class="img-overlay">
 		  			<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
@@ -124,7 +124,7 @@
 	<div class="row">
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://italylegend.ru/" target="_blank">
+			  <a href="http://msk.italylegend.ru/" target="_blank">
 			  	<img id="img-fluid-7" src="imgs/portfolio-italy.jpg" class="img-fluid rounded" alt="">
 		  		<div id="img-overlay-7" class="img-overlay">
 		  			<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
@@ -137,7 +137,7 @@
 		</div>
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure">
-			  <a href="http://atlantpogreb.ru/" target="_blank">
+			  <a href="http://your.atlantpogreb.ru/" target="_blank">
 			  	<img id="img-fluid-8" src="imgs/portfolio-atlant.jpg" class="img-fluid rounded" alt="">
 		  		<div id="img-overlay-8" class="img-overlay">
 		  			<div class="to-site ml-auto mr-auto">Перейти на сайт</div>
@@ -150,7 +150,7 @@
 		</div>
 		<div class="col-12 col-lg-4 ml-auto mr-auto text-center">
 			<figure class="figure last-figure">
-			  <a href="http://sunwave-studio.ru/" target="_blank">
+			  <a href="http://user.sunwave-studio.ru/" target="_blank">
 			  	<img id="img-fluid-9" src="imgs/portfolio-sun.jpg" class="img-fluid rounded" alt="">
 		  		<div id="img-overlay-9" class="img-overlay">
 		  			<div class="to-site ml-auto mr-auto">Перейти на сайт</div>

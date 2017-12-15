@@ -101,7 +101,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="col d-flex align-items-center justify-content-end contacts">            
-              <span class="phone-digits">+380 99 290 00 00</span>
+              <span class="phone-digits">+7 (989) 622 08 19</span>
           </div>
           <img class="whatsapp-icon" src="imgs/whatsapp.svg" width="14" height="14" alt="">
           <img class="viber-icon" src="imgs/viber.png" width="12" height="14" alt="">

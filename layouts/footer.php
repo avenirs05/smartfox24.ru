@@ -10,7 +10,7 @@
 		</div>
 		<div class="col-12 col-lg-3">
 			<span class="d-none d-lg-block" id="btn-get-consult-footer-desk">Задать вопрос</span>
-			<span class="d-lg-none" id="btn-get-consult-footer-mob">Задать вопрос</span>	
+			<span class="d-lg-none" id="btn-get-consult-footer-mob">Задать вопрос<br></span>	
 			<span class="d-none d-lg-block" id="btn-callback-footer-desk">Обратный звонок</span>
 			<span class="d-lg-none" id="btn-callback-footer-mob">Обратный звонок</span>
 		</div>
