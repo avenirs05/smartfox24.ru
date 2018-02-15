@@ -38,7 +38,7 @@
 
 $headers = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-$to = 'domosed365365@gmail.com';
+$to = 'domosed@gmail.com';
 $subject = "Заявка с сайта smartfox24.ru (mobile)";
 
 
